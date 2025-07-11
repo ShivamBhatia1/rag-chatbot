@@ -1,0 +1,7 @@
+streamlit
+faiss-cpu
+PyMuPDF
+spacy
+sentence-transformers
+requests
+
