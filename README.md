@@ -189,7 +189,7 @@ All screenshots are located inn z_screenshots Folder.
 > 🎬 Watch the Demo Video here -   https://drive.google.com/file/d/1G3AjVHRdzEzjm_0C6dlaz1NkZCNQR0aP/view?usp=sharing    
 ---
 
-GitHub repository URL with complete source code:-
+GitHub repository URL with complete source code:- https://github.com/ShivamBhatia1/rag-chatbot.git
 
 
 ## 🙋 Author
